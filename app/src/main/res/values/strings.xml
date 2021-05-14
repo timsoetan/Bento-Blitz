@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Bento Blitz</string>
+    <string name="score">Your Score</string>
+    <string name="high_score">High Score</string>
+    <string name="play">Play Now</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="how_to">How To</string>
+    <string name="back">Back</string>
+    <string name="clear">Clear</string>
+    <string name="description">Move your bento box by pressing down and collect as much sushi as you can while avoiding the dangerous
+        wasabi bombs!
+    </string>
+    <string name="sushi">Sushi = 10 PTS</string>
+    <string name="sashimi">Sashimi = 20 PTS + Restores Walls</string>
+    <string name="wasabi">Destroys Walls</string>
+    <string name="rank">Rank</string>
+    <string name="name">Name</string>
+    <string name="leaderboard_score">Score</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="request_name">ENTER YOUR NAME BELOW TO CONTINUE</string>
+    <string name="prompt_type">TYPE YOUR NAME HERE</string>
+    <string name="error_name_empty">HOW WILL I REMEMBER YOU?</string>
+    <string name="error_name">I CAN\'T PRONOUNCE YOUR NAME</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="go">GO</string>
+    <string name="start">START</string>
+    <string name="cancel">CANCEL</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="exit">EXIT</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="clear_leaderboard">CLEAR LEADERBOARD</string>
+    <string name="warning">ARE YOUR SURE? \n ALL SCORES WILL BE DELETED</string>
+    <string name="final_score">FINAL SCORE: </string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="new_high_score">NEW HIGH SCORE</string>
+</resources>
